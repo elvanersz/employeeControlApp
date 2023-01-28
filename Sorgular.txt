@@ -1,6 +1,0 @@
-SELECT personel_id FROM Personel WHERE personel_kimlik_numara = 38419706312;
-SELECT * from izin where personel_id=3
-
-select izin.* from izin, personel where izin.personel_id = personel.personel_id and personel.personel_kimlik_numara = 47693756204
-
-select * from izin where personel_id = (select personel_id from personel where personel_kimlik_numara = 47693756204)
