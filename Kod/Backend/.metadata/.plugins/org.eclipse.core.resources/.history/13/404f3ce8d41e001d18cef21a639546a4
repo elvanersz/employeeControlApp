@@ -1,0 +1,52 @@
+package com.example.personelkontrol.entities;
+
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "YETKİ")
+public class Yetki {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "yetki_id")
+	Long yetkiId;
+	
+	@Column(name = "yetki_ad")
+	String yetkiAdı;
+	
+	@ManyToMany(fetch = FetchType.LAZY, mappedBy = "yetki")
+	private List<Rol> rol;
+
+	
+	
+	//GETTER - SETTER
+	public Long getYetkiId() {
+		return yetkiId;
+	}
+	public void setYetkiId(Long yetkiId) {
+		this.yetkiId = yetkiId;
+	}
+
+	public String getYetkiAdı() {
+		return yetkiAdı;
+	}
+	public void setYetkiAdı(String yetkiAdı) {
+		this.yetkiAdı = yetkiAdı;
+	}
+
+	public List<Rol> getRol() {
+		return rol;
+	}
+	public void setRol(List<Rol> rol) {
+		this.rol = rol;
+	}
+}

@@ -1,0 +1,34 @@
+package com.example.personelkontrol.controllers;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.personelkontrol.entities.Personel;
+import com.example.personelkontrol.services.IzinService;
+
+@RestController
+@RequestMapping("/izin")
+public class IzinController {
+
+	private IzinService izinService;
+
+	
+	
+	//CONSTRUCTOR
+	public IzinController(IzinService izinService) {
+		this.izinService = izinService;
+	}
+	
+	
+	
+	//METHODS
+	@GetMapping
+	public List<Personel> getAllPersonel(@RequestParam Optional<Long> personelId){
+		return personelService.getAllPersonel(personelId);
+	}
+}

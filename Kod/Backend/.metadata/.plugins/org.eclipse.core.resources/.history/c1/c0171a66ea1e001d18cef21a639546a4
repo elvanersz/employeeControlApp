@@ -1,0 +1,157 @@
+package com.example.personelkontrol.entities;
+
+import java.util.Date;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "PERSONEL")
+public class Personel {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "personel_id")
+	Long personelId;
+	
+	@Column(name = "personel_kimlik_numara")
+	Long personelKimlikNumarasi;
+	
+	String ad;
+	
+	String soyad;
+	
+	Long sifre;
+	
+	@OneToMany
+	private List<Izin> izinList;
+	
+	@ManyToOne
+	private Rol rol;
+	
+	String cinsiyet;
+	
+	String eposta;
+	
+	@Column(name = "telefon_numarasi")
+	String telefonNumarasi;
+	
+	String adres;
+	
+	@Column(name = "ise_giris_tarih")
+	Date iseGirisTarihi;
+
+	@Column(name = "isten_cikis_tarih")
+	Date istenCikisTarihi;
+	
+	@Column(name = "personel_aktifmi")
+	Boolean aktifmi;
+
+	
+	
+	//GETTER - SETTER
+	public Long getPersonelId() {
+		return personelId;
+	}
+	public void setPersonelId(Long personelId) {
+		this.personelId = personelId;
+	}
+
+	public Long getPersonelKimlikNumarasi() {
+		return personelKimlikNumarasi;
+	}
+	public void setPersonelKimlikNumarasi(Long personelKimlikNumarasi) {
+		this.personelKimlikNumarasi = personelKimlikNumarasi;
+	}
+
+	public String getAd() {
+		return ad;
+	}
+	public void setAd(String ad) {
+		this.ad = ad;
+	}
+
+	public String getSoyad() {
+		return soyad;
+	}
+	public void setSoyad(String soyad) {
+		this.soyad = soyad;
+	}
+
+	public Long getSifre() {
+		return sifre;
+	}
+	public void setSifre(Long sifre) {
+		this.sifre = sifre;
+	}
+
+	public List<Izin> getIzinList() {
+		return izinList;
+	}
+	public void setIzinList(List<Izin> izinList) {
+		this.izinList = izinList;
+	}
+
+	public Rol getRol() {
+		return rol;
+	}
+	public void setRol(Rol rol) {
+		this.rol = rol;
+	}
+
+	public String getCinsiyet() {
+		return cinsiyet;
+	}
+	public void setCinsiyet(String cinsiyet) {
+		this.cinsiyet = cinsiyet;
+	}
+
+	public String getEposta() {
+		return eposta;
+	}
+	public void setEposta(String eposta) {
+		this.eposta = eposta;
+	}
+
+	public String getTelefonNumarasi() {
+		return telefonNumarasi;
+	}
+	public void setTelefonNumarasi(String telefonNumarasi) {
+		this.telefonNumarasi = telefonNumarasi;
+	}
+
+	public String getAdres() {
+		return adres;
+	}
+	public void setAdres(String adres) {
+		this.adres = adres;
+	}
+
+	public Date getIseGirisTarihi() {
+		return iseGirisTarihi;
+	}
+	public void setIseGirisTarihi(Date iseGirisTarihi) {
+		this.iseGirisTarihi = iseGirisTarihi;
+	}
+
+	public Date getIstenCikisTarihi() {
+		return istenCikisTarihi;
+	}
+	public void setIstenCikisTarihi(Date istenCikisTarihi) {
+		this.istenCikisTarihi = istenCikisTarihi;
+	}
+
+	public Boolean getAktifmi() {
+		return aktifmi;
+	}
+	public void setAktifmi(Boolean aktifmi) {
+		this.aktifmi = aktifmi;
+	}
+}

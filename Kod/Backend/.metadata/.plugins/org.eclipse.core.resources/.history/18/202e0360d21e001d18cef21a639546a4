@@ -1,0 +1,93 @@
+package com.example.personelkontrol.entities;
+
+import java.util.Date;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "IZIN")
+public class Izin {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "izin_id")
+	Long izinId;
+
+	@ManyToOne
+	private Personel personel;
+	
+	@ManyToOne
+	private IzinTuru izinturu;
+
+	@OneToMany
+	private List<IzinSebep> izinSebep;
+	
+	@Column(name = "izin_baslangic_tarihi")
+	Date izinBaslangicTarihi;
+
+	@Column(name = "izin_bitis_tarihi")
+	Date izinBitisTarihi;
+	
+	@Column(name = "izin_aciklama")
+	String aciklama;
+
+	
+	
+	//GETTER - SETTER
+	public Long getIzinId() {
+		return izinId;
+	}
+	public void setIzinId(Long izinId) {
+		this.izinId = izinId;
+	}
+
+	public Personel getPersonel() {
+		return personel;
+	}
+	public void setPersonel(Personel personel) {
+		this.personel = personel;
+	}
+
+	public IzinTuru getIzinturu() {
+		return izinturu;
+	}
+	public void setIzinturu(IzinTuru izinturu) {
+		this.izinturu = izinturu;
+	}
+
+	public IzinSebep getIzinSebep() {
+		return izinSebep;
+	}
+	public void setIzinSebep(IzinSebep izinSebep) {
+		this.izinSebep = izinSebep;
+	}
+
+	public Date getIzinBaslangicTarihi() {
+		return izinBaslangicTarihi;
+	}
+	public void setIzinBaslangicTarihi(Date izinBaslangicTarihi) {
+		this.izinBaslangicTarihi = izinBaslangicTarihi;
+	}
+
+	public Date getIzinBitisTarihi() {
+		return izinBitisTarihi;
+	}
+	public void setIzinBitisTarihi(Date izinBitisTarihi) {
+		this.izinBitisTarihi = izinBitisTarihi;
+	}
+
+	public String getAciklama() {
+		return aciklama;
+	}
+	public void setAciklama(String aciklama) {
+		this.aciklama = aciklama;
+	}
+}
