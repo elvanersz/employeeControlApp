@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5b67cbd-fd56-45a9-b79a-294897b8c003" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.location" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.location" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.projects/personelkontrol/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.root/51.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.debug.core/.launches/PersonelkontrolApplication.launch" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.debug.core/.launches/PersonelkontrolApplication.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1078557440.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1083216882.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1096902954.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1162224342.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1185833180.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1203064520.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1244655854.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1245785181.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1262849876.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1290357175.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1296881324.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1380109882.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/139402536.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1486397589.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1546253975.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1579948477.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1631822658.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1662296285.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1753086033.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/178037515.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1781594416.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1801432382.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1883857690.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/190535079.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1919243796.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1963399561.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/1980897090.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2037435951.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2145046489.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2169183878.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2248380884.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2284871650.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2442074148.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2453794254.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2480829931.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2501761469.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2559128879.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2580875182.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2626912129.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2669456154.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2739122542.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2739877880.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2741087206.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2757825333.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/276358145.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2764895467.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2802405105.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2903258417.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2950523713.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/2957077482.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3017620226.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3090438048.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3144298087.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3165291466.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3173485416.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3211872772.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3237639400.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3317135890.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3319947017.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3665062826.index" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3665062826.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3719663575.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3732531401.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3766856536.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3784771506.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3787668190.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/38399752.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3959582136.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/3989611905.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4012208924.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4074738548.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4115224193.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4128810241.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4157328751.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4219927052.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4222020359.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4225278925.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/4236149788.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/436413137.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/448433696.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/46623560.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/482242753.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/672147929.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/736119082.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/748150805.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/781837328.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/799430939.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/949168421.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/994961580.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_18.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_18.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_18.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_19.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_19.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_19.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c_1.liv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c_Lucene50_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c_Lucene50_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c_Lucene50_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1c_Lucene50_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1d.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1d.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1d.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1e.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1e.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1e.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1f.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1f.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1f.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1g.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1g.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1g.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1y.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1y.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1y.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1z.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1z.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/_1z.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/segments_1v" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/724eb34e7208fc843d8ae1490d422c5a/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u_1.liv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u_Lucene50_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u_Lucene50_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u_Lucene50_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1u_Lucene50_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1v.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1v.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1v.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1w.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1w.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1w.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1x.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1x.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1x.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1y.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1y.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1y.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1z.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1z.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1z.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_20.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_20.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_20.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2i.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2j.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.jdt/personelkontrol.container" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.m2e.jdt/personelkontrol.container" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/main/java/com/example/personelkontrol/PersonelkontrolApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/main/java/com/example/personelkontrol/PersonelkontrolApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/test/java/com/example/personelkontrol/PersonelkontrolApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Kod/Backend/personelkontrol/bin/src/test/java/com/example/personelkontrol/PersonelkontrolApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SYwfs3jE2upjobHmBiQU57Wkxe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/personelKontrolWebApp/Kod/Backend",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b67cbd-fd56-45a9-b79a-294897b8c003" name="Changes" comment="" />
+      <created>1689336929294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689336929294</updated>
+      <workItem from="1689336930317" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

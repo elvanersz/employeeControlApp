@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Github\personelKontrolWebApp\Kod\Backend"/>
 			<item value="D:\Github Projects\Staj Projesi\Kod\Backend"/>
 			<item value="D:\Staj Projesi\Kod\Backend"/>
 			<item value="C:\Users\Elvan Ersöz\Desktop\JAVA ve JS\Projects\questapp"/>
