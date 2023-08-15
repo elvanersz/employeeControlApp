@@ -1,0 +1,53 @@
+body {
+    background-color: #B9DCF4;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+.btn-baslat {
+    margin-top: 50px;
+}
+.btn-success {
+    color: black;
+}
+.btn-in-card {
+    width: 100%;
+    height: 100%;
+}
+
+
+.personel {
+    position: relative;
+}
+.ekleme-card {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 100px;
+    top: 20px;
+}
+.sorgulama-card {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 300px;
+}
+.guncelleme-card {
+    width: 250px;
+    height: 248px;
+    position: absolute;
+    left: 500px;
+    
+}
+.silme-card {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 500px;
+    top: 316px;
+    
+}
+
